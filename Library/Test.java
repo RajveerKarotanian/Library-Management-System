@@ -3,7 +3,7 @@
  * 
  * Date: 3/11/25
  */
-public class ProjectOneTester {
+public class Test {
     /*
      * Problem Description: Create a library management system, where you can add books and accounts to the library. You must create a book 
      *                      class, an audio book class, an account class, and a library class. 

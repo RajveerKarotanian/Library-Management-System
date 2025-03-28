@@ -71,7 +71,7 @@ This project is a **Library Management System** implemented in Java. It allows u
 ---
 
 ## Example Usage
-- Run ProjectOneTester.java to see how all classes are used together
+- Run Test.java to see how all classes are used together
 
 ---
 
